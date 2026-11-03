@@ -24,10 +24,16 @@ My goal is to learn Git, Github, Excel, PowerBi, SQL, Python... **I enjoy solvin
 
 ## My Learning Progress
 | Tool | Purpose | Status |
-|--------------------------------------|
+|-------------------------|
 | Excel | Data Analytics | Not Started |
 | SQL | Database Querying | Not Started |
 | SQL | Database Querying | Not Started |
 | SQL | Database Querying | Not Started |
 | SQL | Database Querying | Not Started |
+
+## Learning Resources
+[Visit Coursera](https://www.coursera.org/courses?query=data%20analytics)
+
+
+
 
