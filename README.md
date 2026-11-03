@@ -1,5 +1,7 @@
 # My-Data-Analytics-Learning-Journney
-![Data1]("C:\Users\Rurphy\Desktop\Rurphy\Downloads\Data1.jpg")
+
+![Data1](Data1.jpg)
+
 My journey into data analytics, documenting concepts, exercises and projects as I learn.
 ## About Me
 I am Rafiat Jibulu, a data analyst.......
