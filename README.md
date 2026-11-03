@@ -4,6 +4,9 @@
 
 My journey into data analytics, documenting concepts, exercises and projects as I learn.
 ## About Me
+
+![Data2](Data2.jpg)
+
 I am Rafiat Jibulu, a data analyst.......
 ### My Learning Goals
 My goal is to learn Git, Github, Excel, PowerBi, SQL, Python... **I enjoy solving problems using data.** ~~I am a fast learner~~ *I am a fast learner*
@@ -21,7 +24,7 @@ My goal is to learn Git, Github, Excel, PowerBi, SQL, Python... **I enjoy solvin
 
 ## My Learning Progress
 | Tool | Purpose | Status |
-|-----------|
+|--------------------------------------|
 | Excel | Data Analytics | Not Started |
 | SQL | Database Querying | Not Started |
 | SQL | Database Querying | Not Started |
